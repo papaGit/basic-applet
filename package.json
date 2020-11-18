@@ -1,5 +1,5 @@
 {
-  "name": "guanzhang-wechat",
+  "name": "basic-applet",
   "version": "1.0.0",
   "scripts": {
     "lint": "eslint --fix app.js api pages utils"

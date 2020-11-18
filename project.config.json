@@ -39,7 +39,7 @@
   "compileType": "miniprogram",
   "libVersion": "2.11.3",
   "appid": "wx9ba228bfcf9d62f0",
-  "projectname": "guangzhang-miniprogram",
+  "projectname": "小程序基础项目架构",
   "debugOptions": {
     "hidedInDevtools": []
   },
