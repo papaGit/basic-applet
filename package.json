@@ -1,0 +1,11 @@
+{
+  "name": "guanzhang-wechat",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint --fix app.js api pages utils"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.13.0"
+  }
+}
